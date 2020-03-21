@@ -1,4 +1,3 @@
-<br>
 
 # <center ><font color='#458199'>WeRateDogs Twitter Archive Analysis</font></center>
 
