@@ -1,7 +1,7 @@
  # <center ><font color='#458199'>Project: Wrangle & Analyze Data </font></center>
 
 
-The purpose of this report is to elaborate on steps taken for data wrangling for this project. It is divided into three steps:
+This report aims to elaborate on steps taken as part of data wrangling for this project. It is divided into three sections:
 
 <ul>
     <li><a href="#gather">Gathering</a></li>
@@ -56,6 +56,7 @@ Finally, I identified below mentioned issues in assessment.
 9.	Tweets for 13 dogs have multiple stages filled in. Some of them are correct. Some will need to be changed.
 
 **Image Predictions Table - `image_pred`**
+
 10.	column 'img_num' is integer datatype - can be category
 
 ### <font color='#458199'>Tidiness Issues </font>
@@ -81,6 +82,7 @@ Made a copy of the dataframe and took following steps.
 9.	7 of 13 them are correct. 6 will be changed to correct values.
 
 **Image Predictions Table - `image_pred`**
+
 10.	Change datatype for column 'img_num' to category.
 
 ### <font color='#458199'>Tidiness Issues </font>
